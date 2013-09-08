@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HttpsGet</string>
+    <string name="defaultUrl">https://www.verisign.com</string>
+    <string name="enterUrlLabel">Type url and click Get</string>
+</resources>
